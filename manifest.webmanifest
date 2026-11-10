@@ -1,0 +1,14 @@
+{
+  "name": "Throwdown",
+  "short_name": "Throwdown",
+  "description": "Rock, paper, scissors logic puzzles. No ties allowed.",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1d2140",
+  "theme_color": "#1d2140",
+  "icons": [
+    { "src": "assets/art/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/art/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

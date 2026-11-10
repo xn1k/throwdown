@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<meta name="theme-color" content="#1d2140">
+<title>Throwdown</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="assets/art/icon-192.png">
+<link rel="apple-touch-icon" href="assets/art/icon-192.png">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<main>
+  <header>
+    <h1>Throwdown</h1>
+    <div class="meta">
+      <span id="label"></span>
+      <span id="timer">0:00</span>
+    </div>
+  </header>
+
+  <nav class="row" id="menu">
+    <select id="diff" aria-label="Difficulty"></select>
+    <button id="daily">Daily</button>
+    <button id="new">New</button>
+    <button id="help" aria-label="How to play">?</button>
+  </nav>
+
+  <div id="boardWrap"><div id="board" role="grid" aria-label="Puzzle board"></div></div>
+  <div id="toast" role="status"></div>
+
+  <nav class="row palette" id="palette" aria-label="Pick a hand">
+    <button data-brush="0" aria-label="Rock"></button>
+    <button data-brush="1" aria-label="Paper"></button>
+    <button data-brush="2" aria-label="Scissors"></button>
+    <button data-brush="-1" aria-label="Eraser" class="eraser">Erase</button>
+  </nav>
+  <nav class="row tools">
+    <button id="undo">Undo</button>
+    <button id="hint">Hint</button>
+    <button id="reset">Reset</button>
+  </nav>
+  <p id="status"></p>
+</main>
+
+<div id="modal" hidden>
+  <div class="card">
+    <div id="modalBody"></div>
+    <button id="modalClose">OK</button>
+  </div>
+</div>
+
+<script type="module" src="js/game.js"></script>
+</body>
+</html>

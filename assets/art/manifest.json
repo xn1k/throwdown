@@ -1,0 +1,16 @@
+{
+ "rock": "assets/art/rock.png",
+ "rock_sheet": "assets/art/rock_sheet.png",
+ "paper": "assets/art/paper.png",
+ "paper_sheet": "assets/art/paper_sheet.png",
+ "scissors": "assets/art/scissors.png",
+ "scissors_sheet": "assets/art/scissors_sheet.png",
+ "block": "assets/art/block.png",
+ "arrow": "assets/art/arrow.png",
+ "crown": "assets/art/crown.png",
+ "sparkle": "assets/art/sparkle.png",
+ "tile": "assets/art/tile.png",
+ "tile_fixed": "assets/art/tile_fixed.png",
+ "block_tile": "assets/art/block_tile.png",
+ "bg": "assets/art/bg.jpg"
+}

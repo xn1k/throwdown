@@ -1,0 +1,7 @@
+Game art asset sheet for a cute rock-paper-scissors puzzle game. 16-bit SNES era pixel art exactly matching the reference image (same pixel size, same dark 1px outline, same shading and palette), crisp hard-edged pixels, no anti-aliasing, no blur.
+Exactly 4 separate objects in a tidy grid of 2 columns and 2 rows, each centred in its own cell with wide empty space around it, nothing touching. Front view, slightly from above, like the reference.
+TOP LEFT: a small round leafy green bush-tree with a short brown trunk, chunky and cute, no face.
+TOP RIGHT: a bold chunky golden-yellow arrow pointing to the RIGHT, short and wide with a big triangular head, dark outline, lighter top highlight.
+BOTTOM LEFT: a small shiny golden crown with three points and a red gem in the middle.
+BOTTOM RIGHT: a bright yellow-white four-pointed sparkle star.
+Perfectly flat solid magenta #FF00FF background everywhere including between the objects. No shadows, no ground, no text, no labels, no numbers, no borders, no grid lines.

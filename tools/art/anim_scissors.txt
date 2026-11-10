@@ -1,0 +1,7 @@
+Sprite animation strip using ONLY the pair of scissors character from the RIGHT of the reference image, exactly the same design, colours, face, proportions and pixel size. 16-bit SNES era pixel art exactly matching the reference image (same pixel size, same dark 1px outline, same shading and palette), crisp hard-edged pixels, no anti-aliasing, no blur.
+Exactly 4 frames in a single horizontal row, evenly spaced, each frame the same size with clear empty space between frames, all standing on the same baseline at the bottom:
+1. normal pose, exactly like the reference.
+2. squashed down: slightly wider and shorter, as if about to jump.
+3. stretched up: slightly taller and narrower, a happier excited face.
+4. normal pose with eyes happily closed (blink).
+Perfectly flat solid magenta #FF00FF background. No shadows, no ground line, no text, no frame numbers, no borders.

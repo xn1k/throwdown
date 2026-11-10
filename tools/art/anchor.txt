@@ -1,0 +1,7 @@
+Game art asset sheet for a cute rock-paper-scissors puzzle game, 16-bit SNES era pixel art, crisp hard-edged pixels, limited bright palette, dark 1px outline, no anti-aliasing, no blur. Front view, slightly from above, chunky and readable at small size.
+Exactly three separate characters side by side in a single row with a wide empty gap between them, all the same height, each centred in its third of the image:
+LEFT: ROCK - a round chunky grey boulder with a few cracks and darker speckles, a grumpy determined face with thick eyebrows and small eyes, little stubby arms crossed. Clearly a stone.
+MIDDLE: PAPER - a single sheet of cream-white paper standing upright with one corner folded down, faint blue writing lines, a cheerful smiling face with round eyes and rosy cheeks. Clearly a sheet of paper.
+RIGHT: SCISSORS - an upright pair of scissors with shiny steel blades pointing up and bright red handle loops at the bottom, a mischievous grin with eyes on the pivot. Clearly scissors.
+Same pixel size, outline and shading style for all three. Characters fully inside the image with empty margin all around.
+Perfectly flat solid magenta #FF00FF background everywhere. No shadows, no ground line, no text, no labels, no numbers, no borders.
